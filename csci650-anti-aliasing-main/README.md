@@ -4,7 +4,7 @@ Repo for materials used during our presentation on anti-aliasing for CSCI 650.
 
 ### Addtional Information
 
-Eric's SSAA script can be run by cloning this repository and installing dependencies with `pip install -r requirements.txt`. Usage is as follows:
+SSAA script can be run by cloning this repository and installing dependencies with `pip install -r requirements.txt`. Usage is as follows:
 ```bash
 python ssaa.py <input_image> <output_image> 
 ```
